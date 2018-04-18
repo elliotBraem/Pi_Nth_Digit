@@ -6,7 +6,7 @@ namespace Pi_Nth_Digit
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
         }
     }
 }
